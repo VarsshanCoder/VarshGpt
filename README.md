@@ -7,11 +7,8 @@ It integrates the **OpenAI API** for chat, image generation, and file analysis
 
 ## ✨ Features
 - 💬 **Conversational AI** — Powered by OpenAI's GPT models
-- 🖼 **Image Generation** — `/image your prompt` creates AI images
-- 📎 **File Analysis** — Upload files and get instant AI insights
 - 🎨 **Cyberpunk UI** — Neon‑glow theme with responsive design
 - 📋 **Copy‑Ready Code Blocks** — One‑click copy for any AI‑generated code
-- 🔊 **Extensible** — Ready for voice input, TTS, and streaming
 
 ---
 

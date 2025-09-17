@@ -1,0 +1,28 @@
+/* src/styles/theme.css */
+:root {
+    --bg: #121212;
+    --surface: #1A1A1A;
+    --muted: #A7A7A7;
+    --text: #EAEAEA;
+    --border: #242424;
+    --accent: #00FFD1;
+    --accent-2: #4CC9F0;
+    --radius: 14px;
+    --shadow: 0 10px 30px rgba(0,0,0,.5);
+    --glow: 0 0 18px rgba(0,255,209,.25);
+  }
+  
+  * { box-sizing: border-box; }
+  html, body, #root { height: 100%; }
+  body {
+    margin: 0;
+    background: radial-gradient(1200px 700px at 70% -10%, rgba(76,201,240,0.08), transparent),
+                radial-gradient(900px 600px at -10% 30%, rgba(0,255,209,0.08), transparent),
+                var(--bg);
+    color: var(--text);
+    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  }
+  
+  /* Subtle scrollbars */
+  ::-webkit-scrollbar { width: 10px; }
+  ::-webkit-scrollbar-thumb { background: #252525; border-radius: 8px; }

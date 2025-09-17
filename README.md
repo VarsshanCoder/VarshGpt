@@ -77,4 +77,6 @@ http://localhost:5173
 ---
 📸 Screenshots
 ![alt text](https://github.com/VarsshanCoder/VarshGpt/blob/main/Screenshot%202025-09-17%20183913.png)
-![alt text](https://github.com/VarsshanCoder/VarshGpt/blob/main/Screenshot%202025-09-17%20183913.png)
+![alt text](https://github.com/VarsshanCoder/VarshGpt/blob/main/Screenshot%202025-09-17%20183958.png)
+![alt text](https://github.com/VarsshanCoder/VarshGpt/blob/main/Screenshot%202025-09-17%20184045.png)
+![alt text](https://github.com/VarsshanCoder/VarshGpt/blob/main/Screenshot%202025-09-17%20184057.png)
